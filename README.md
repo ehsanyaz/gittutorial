@@ -15,6 +15,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Reza Javadzadeh :satellite::iphone:](https://github.com/Reza-Javadzadeh)
 - [Mohammad Kazemi](https://github.com/mohammadkazemy)
 - [Jadi ❤️](https://jadi.net)
+- Ehsan Yazdani (https://github.com/ehsanyaz)
 - Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
 - [Shahram Ardalan💻❤️](https://github.com/shahramardalan)
 - [Erfan Farahbakhsh](https://github.com/thatserfan)
